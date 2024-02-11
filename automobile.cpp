@@ -50,8 +50,15 @@ class Customer : public Automobile{
 int main(){
 
     // cout << "Hello World";
+<<<<<<< HEAD
     // cout << "Hello World";
     Automobile obj;
 
     return 0;
 }
+=======
+    Automobile obj;
+
+    return 0;
+}
+>>>>>>> 7a7e12273c86c88e42a51e34376b6ccf2034f9b1
